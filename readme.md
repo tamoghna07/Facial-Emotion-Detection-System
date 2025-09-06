@@ -22,7 +22,9 @@ This project aims to detect facial emotions using a Convolutional Neural Network
 ### Installation Steps
 
 1. Clone the repository:
-git clone https://github.com/royswastik07/facial_emotion_detection.git
+```
+git clone https://github.com/tamoghna07/Facial-Emotion-Detection-System.git
+```
 
 2. Install the required dependencies:
 pip install -r requirements.txt
